@@ -9,7 +9,7 @@ Leveraging the Retrieval-Augmented Generation (RAG) architecture, the system sea
 To optimize information retrieval, the system employs `Llama-2 7B` and `FAISS` as  an advanced Memory Vector Store. This technology ensures fast and accurate similarity searches, allowing the retriever to extract pertinent information from the extensive agricultural dataset quickly.
 
 #### Hugging Face Dataset:
-The QA system is trained and validated using a carefully curated dataset from Hugging Face, specifically tailored to the nuances and complexities of agricultural terminology and context. We have use *Tasfiul/Agricultural-dataset* from Huggingface *datasets* library which consists of 175k rows of Question-Answer Pairs related to the agriculture domain. 
+The QA system is trained and validated using a carefully curated dataset from Hugging Face, specifically tailored to the nuances and complexities of agricultural terminology and context. We have use `Tasfiul/Agricultural-dataset` from Huggingface `datasets` library which consists of `175k rows of Question-Answer` Pairs related to the `agriculture domain`. 
 
 #### Key Features:
 
