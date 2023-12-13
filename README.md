@@ -6,7 +6,7 @@ Presenting an innovative Question Answering (QA) system tailored exclusively for
 Leveraging the Retrieval-Augmented Generation (RAG) architecture, the system seamlessly combines retriever and generator models. This dual-stage process enhances the system's ability to understand and provide contextually relevant answers to a wide range of queries relevant to farming practices.
 
 #### Llama-2 7B chat LLM and  FAISS (In Memory Vector Store):
-To optimize information retrieval, the system employs `Llama-2 7B` and `FAISS` as  an advanced Memory Vector Store. This technology ensures fast and accurate similarity searches, allowing the retriever to extract pertinent information from the extensive agricultural dataset quickly.
+To optimize information retrieval, the system employs `Llama-2 7B` and `FAISS` as  an In Memory Vector Store. This technology ensures fast and accurate similarity searches, allowing the retriever to extract pertinent information from the extensive agricultural dataset quickly.
 
 #### Hugging Face Dataset:
 The QA system is trained and validated using a carefully curated dataset from Hugging Face, specifically tailored to the nuances and complexities of agricultural terminology and context. We have use `Tasfiul/Agricultural-dataset` from Huggingface `datasets` library which consists of `175k rows of Question-Answer` Pairs related to the `agriculture domain`. 
