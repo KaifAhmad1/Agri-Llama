@@ -18,7 +18,7 @@ The QA system is trained and validated using a carefully curated dataset from **
 
 **Farmers' Assistance:** The system is specifically crafted to excel in the agricultural domain, ensuring **accurate and contextually relevant responses** to queries related to farming techniques, crop management, pest control, and more.
 
-**Real-time Responsiveness:** Leveraging the efficiency of **Llama-2 FAISS**, the system provides **quick and precise answers**, making it a valuable tool for farmers requiring rapid information retrieval.
+**Real-time Responsiveness:** Leveraging the efficiency of **Llama-2, FAISS**, the system provides **quick and precise answers**, making it a valuable tool for farmers requiring rapid information retrieval.
 
 **Scalability:** The architecture allows for easy scalability, enabling the addition of more data and features to enhance the system's performance over time.
 
@@ -26,4 +26,4 @@ The QA system is trained and validated using a carefully curated dataset from **
 
 The RAG-based QA system, with its emphasis on assisting farmers, is a valuable tool for those in the agriculture industry, providing reliable and timely insights to enhance decision-making and farming practices.
 
-In summary, this state-of-the-art QA system, empowered by **RAG architecture, Llama-2 FAISS, and the Hugging Face datasets**, is specifically designed to support and assist farmers in addressing their queries within agriculture's dynamic and complex landscape.
+In summary, this state-of-the-art QA system, empowered by **`RAG` architecture, `Llama-2` `FAISS`, and the Hugging Face `datasets`**, is specifically designed to support and assist farmers in addressing their queries within agriculture's dynamic and complex landscape.
